@@ -20,3 +20,4 @@
 
 - Dr. Tarek Hagres (Instructor).
 - Computer Architecture and Organization by William Stallings.
+- The Essentials Of Computer Organization And Architecture by Linda Null.
