@@ -1,6 +1,5 @@
-# Computer Architecture
+# Computer Architecture Notes
 
-## By Yusuf Abdelaziz.
 
 [CH4 - Cache Memory](Computer%20Architecture/CH4%20-%20Cache%20Memory%20b64748f6973e420abf4094f2bca1476b.md)
 
@@ -14,10 +13,17 @@
 
 [CH12 - CPU Structure.](Computer%20Architecture/CH12%20-%20CPU%20Structure%20534c7e7211344bebb2d852d0e7152521.md)
 
----
+
+</br>
 
 ## Resources
 
 - Dr. Tarek Hagres (Instructor).
 - Computer Architecture and Organization by William Stallings.
 - The Essentials Of Computer Organization And Architecture by Linda Null.
+
+</br>
+
+## Notion
+
+You can find a better-formatted version as a notion page from [here](https://joeabdelaziz.notion.site/Computer-Architecture-6bc2eda1a20947d284ddf5a8d7ba216f).
