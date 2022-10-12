@@ -26,4 +26,4 @@
 
 ## Notion
 
-You can find a better-formatted version as a notion page from [here](https://joeabdelaziz.notion.site/Computer-Architecture-6bc2eda1a20947d284ddf5a8d7ba216f).
+You can find a better-formatted version as a Notion page from [here](https://joeabdelaziz.notion.site/Computer-Architecture-6bc2eda1a20947d284ddf5a8d7ba216f).
